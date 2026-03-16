@@ -1,0 +1,16 @@
+{
+  "currentWeek": 1,
+  "currentPhase": 1,
+  "selectedDay": "mon",
+  "weeks": {
+    "week-1": {
+      "mon": {
+        "checked": [
+          0,
+          1
+        ],
+        "completed": false
+      }
+    }
+  }
+}
